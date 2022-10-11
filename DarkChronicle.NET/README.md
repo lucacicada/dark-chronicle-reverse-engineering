@@ -10,4 +10,4 @@ Drag and drop the .ISO file of the game and that's it!
 
 Compile with:
 
-> dotnet build --configuration Release
+> dotnet build -c Release -r win-x64 --no-self-contained /p:DebugType=None /p:DebugSymbols=false
