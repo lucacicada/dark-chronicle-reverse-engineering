@@ -9,10 +9,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="mahapps.metro" Version="2.4.9" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<ProjectReference Include="..\DarkChronicle.NET\DarkChronicle.NET.csproj" />
 	</ItemGroup>
 
