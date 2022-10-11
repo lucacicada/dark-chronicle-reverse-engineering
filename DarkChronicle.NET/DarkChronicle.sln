@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkChronicle.NET", "DarkChronicle.NET\DarkChronicle.NET.csproj", "{46828F51-5B93-48B3-8B4E-98564F0CA183}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkChronicle.WinFormsApp", "DarkChronicle.WinFormsApp\DarkChronicle.WinFormsApp.csproj", "{CE21776D-0923-4F58-AB97-0201A56E6A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46828F51-5B93-48B3-8B4E-98564F0CA183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46828F51-5B93-48B3-8B4E-98564F0CA183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46828F51-5B93-48B3-8B4E-98564F0CA183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46828F51-5B93-48B3-8B4E-98564F0CA183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE21776D-0923-4F58-AB97-0201A56E6A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE21776D-0923-4F58-AB97-0201A56E6A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE21776D-0923-4F58-AB97-0201A56E6A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE21776D-0923-4F58-AB97-0201A56E6A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC9AEFC-0BCD-4933-AAEB-3DDDC2FE6A60}
+	EndGlobalSection
+EndGlobal
